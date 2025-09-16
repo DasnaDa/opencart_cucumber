@@ -1,4 +1,4 @@
-Feature: Login with Valid Credentials
+Feature: Login with Valid Credentialss
 
   @sanity 
   Scenario: Successful Login with Valid Credentials
