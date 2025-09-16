@@ -1,0 +1,2 @@
+Cd C:\SoftwareAutomation\myworkspace\SeleniumWebdriver\opencart_cucumber\opencart_cucumber
+mvn test
